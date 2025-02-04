@@ -17,7 +17,11 @@ Lanzando la misma pregunta a Chat-GPT
   prompt: "un cuento de ciencia ficcion, que como personajes principales tenga a dos hermanas, de entre 10 y 12 años,
   encuentran un pasaje secreto que les permita viajar en el tiempo, yendo a momentos especificos de la historia según van lo que van aprendiendo en el colegio"
 
+chat-GPT: "¿Te gusta el enfoque o quieres que agreguemos más detalles sobre cómo funciona el pasaje del tiempo? "
   prompt: "me gustaría seguir con ese enfoque, pero agregando más aventuras y peligrosidad"
+chat-GPT: "¿Quieres que desarrollemos más la huida o que incluyamos más viajes a otros períodos históricos?"
   prompt: "podríá incluir más saltos en el tiempo"
+chat-GPT: "¿Te gustaría que exploraran más épocas o que desarrolláramos un desenlace para su aventura?"
   prompt: "Podrias agregar más epocas y separar el cuento en capítulos."
+chat-GPT: "¿Quieres que desarrolle más alguna de estas secciones o agregue nuevos viajes?"
   prompt: "Podrías agregar un prologo y desenlace final o epilogo."
